@@ -1,0 +1,6 @@
+version: "3"
+services:
+  web:
+    image: uts_riswanto
+    ports:
+      - "6090:6090"
